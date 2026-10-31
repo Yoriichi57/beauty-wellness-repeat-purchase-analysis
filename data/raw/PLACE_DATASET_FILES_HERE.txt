@@ -1,0 +1,1 @@
+Put the extracted Olist CSV dataset files in this folder. Raw CSVs are ignored by Git.
